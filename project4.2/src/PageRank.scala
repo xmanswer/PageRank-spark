@@ -1,4 +1,5 @@
---driver-memory 10G --executor-memory 20G
+//--driver-memory 10G --executor-memory 20G
+//copy and paste the following in spark script
 
 import org.apache.spark.SparkConf
 import org.apache.spark.SparkContext
